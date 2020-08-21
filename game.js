@@ -14,7 +14,7 @@ let questions = [];
 
 const IF_CORRECT = 10;
 const MAX_QUESTIONS = 3;
-
+// just to commit 
 startGame = () => {
   questionCounter = 0;
   score = 0;
