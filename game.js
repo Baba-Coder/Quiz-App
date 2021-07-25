@@ -51,7 +51,7 @@ fetch("https://opentdb.com/api.php?amount=10&category=9&difficulty=easy&type=mul
 });
 
 const IF_CORRECT = 10;
-const MAX_QUESTIONS = 5;
+const MAX_QUESTIONS = 10;
 // just to commit 
 startGame = () => {
   questionCounter = 0;
