@@ -1,28 +1,55 @@
 [
     {
         "question": "Inside which HTML element do we put the JavaScript??", 
-        "choice1": "<scripts>",
-        "choice2": "<javascripts>",
-        "choice3": "<js>",
-        "choice4": "<scripting>",
+        "choice1":  "<scripts>",
+        "choice2":  "<javascripts>",
+        "choice3":  "<js>",
+        "choice4":  "<scripting>",
         "answer": 1
 
     },
     {
         "question": "What is the correct syntax for referring to an external script called 'xxx.js'?",
-        "choice1": "<script href='xxx.js'>",
-        "choice2": "<script name='xxx.js'>",
-        "choice3": "<script src='xxx.js'>",
+        "choice1":  "<script href='xxx.js'>",
+        "choice2":  "<script name='xxx.js'>",
+        "choice3":  "<script src='xxx.js'>",
         "choice4":  "<script file='xxx.js'>",
         "answer": 3
     }, 
     {
         "question": "How do you write 'Hello World' in alert box?",
-        "choice1": "msgBox('Hello World');",
-        "choice2": "alertBox('Hello World');",
-        "choice3": "msg('Hello World');",
-        "choice4": "alert('Hello World');",
+        "choice1":  "msgBox('Hello World');",
+        "choice2":  "alertBox('Hello World');",
+        "choice3":  "msg('Hello World');",
+        "choice4":  "alert('Hello World');",
         "answer": 4
+    },
+    {
+        "question": "What does HTML stand for? ",
+        "choice1":  "Hyper Trainer Marking Language",
+        "choice2":  "Hyper Text Marketing Language",
+        "choice3":  "Hyper Text Markup Language",
+        "choice4":  "Hyper Text Markup Leveler",
+        "answer": 3
+    },
+    {
+        "question": "Which of the following is the correct way of making a string in Java? ",
+        "choice1":  "String 'Text';",
+        "choice2":  "String text = 'text';",
+        "choice3":  "String text = 'text'",
+        "choice4":  "String text = 'text';",
+        "answer": 4
+    },
+    {
+        "question": "Which of the following is the correct way of use the standard namespace in C++ ?",
+        "choice1":  "Using namespace std;",
+        "choice2":  "Using namespace standard;",
+        "choice3":  "Using standard namespace;",
+        "choice4":  "Standard namespace used;",
+        "answer": 1
+
     }
+    
+   
 
 ]
